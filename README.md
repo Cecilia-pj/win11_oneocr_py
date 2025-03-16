@@ -7,7 +7,7 @@ The code depends on the DLLs and offline AI model, the easiest
 way is copy those files from SnippingTool folder, puts them in
 the same folder of ocr.py
 
-![](./螢幕擷取畫面 2025-03-16 231134.png)
+![](./螢幕擷取畫面2025-03-16231134.png)
 
 includes: 
 
